@@ -1,0 +1,50 @@
+{
+  "Mn": {
+    "voltage_R2": 0.5965,
+    "capacity_R2": 0.4556,
+    "dvolume_R2": 0.3179,
+    "n": 56
+  },
+  "V": {
+    "voltage_R2": 0.4519,
+    "capacity_R2": 0.4989,
+    "dvolume_R2": 0.0875,
+    "n": 49
+  },
+  "Fe": {
+    "voltage_R2": 0.0318,
+    "capacity_R2": 0.3368,
+    "dvolume_R2": 0.3535,
+    "n": 41
+  },
+  "Ni": {
+    "voltage_R2": 0.7722,
+    "capacity_R2": 0.1183,
+    "dvolume_R2": 0.0085,
+    "n": 32
+  },
+  "Cr": {
+    "voltage_R2": 0.0319,
+    "capacity_R2": -0.1599,
+    "dvolume_R2": 0.0334,
+    "n": 28
+  },
+  "Cu": {
+    "voltage_R2": 0.4844,
+    "capacity_R2": -0.0607,
+    "dvolume_R2": 0.2474,
+    "n": 26
+  },
+  "Co": {
+    "voltage_R2": 0.3257,
+    "capacity_R2": 0.2238,
+    "dvolume_R2": 0.151,
+    "n": 25
+  },
+  "Ti": {
+    "voltage_R2": 0.0481,
+    "capacity_R2": 0.3327,
+    "dvolume_R2": 0.2906,
+    "n": 24
+  }
+}

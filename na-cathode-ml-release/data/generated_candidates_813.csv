@@ -1,0 +1,814 @@
+formula_discharge,framework,substitution,n_template_support
+NaMnS2,Na1S2,Mn->slot1.0,6
+NaFeS2,Na1S2,Fe->slot1.0,6
+NaNiS2,Na1S2,Ni->slot1.0,6
+NaCuS2,Na1S2,Cu->slot1.0,6
+NaCoS2,Na1S2,Co->slot1.0,6
+Na(CuO2)2,Na1O4,Cu->slot2.0,12
+Na(CoO2)2,Na1O4,Co->slot2.0,12
+NaMnFeO4,Na1O4,Fe/Mn mix slot2.0,12
+NaFeNiO4,Na1O4,Fe/Ni mix slot2.0,12
+NaMnNiO4,Na1O4,Mn/Ni mix slot2.0,12
+NaCoNiO4,Na1O4,Ni/Co mix slot2.0,12
+NaFeCoO4,Na1O4,Fe/Co mix slot2.0,12
+Na2MnF5,F5Na2,Mn->slot1.0,1
+Na2FeF5,F5Na2,Fe->slot1.0,1
+Na2NiF5,F5Na2,Ni->slot1.0,1
+Na2CrF5,F5Na2,Cr->slot1.0,1
+Na2CuF5,F5Na2,Cu->slot1.0,1
+Na2CoF5,F5Na2,Co->slot1.0,1
+Na2TiF5,F5Na2,Ti->slot1.0,1
+Na3Mn5O10,Na3O10,Mn->slot5.0,1
+Na3(FeO2)5,Na3O10,Fe->slot5.0,1
+Na3(NiO2)5,Na3O10,Ni->slot5.0,1
+Na3Cr5O10,Na3O10,Cr->slot5.0,1
+Na3(CuO2)5,Na3O10,Cu->slot5.0,1
+Na3(CoO2)5,Na3O10,Co->slot5.0,1
+Na3Ti5O10,Na3O10,Ti->slot5.0,1
+Na3Mn(Fe2O5)2,Na3O10,Fe/Mn mix slot5.0,1
+Na3Fe4NiO10,Na3O10,Fe/Ni mix slot5.0,1
+Na3Mn4NiO10,Na3O10,Mn/Ni mix slot5.0,1
+Na3Co(Ni2O5)2,Na3O10,Ni/Co mix slot5.0,1
+Na3Fe4CoO10,Na3O10,Fe/Co mix slot5.0,1
+NaMnF4,F4Na1,Mn->slot1.0,1
+NaFeF4,F4Na1,Fe->slot1.0,1
+NaNiF4,F4Na1,Ni->slot1.0,1
+NaCrF4,F4Na1,Cr->slot1.0,1
+NaCuF4,F4Na1,Cu->slot1.0,1
+NaCoF4,F4Na1,Co->slot1.0,1
+NaTiF4,F4Na1,Ti->slot1.0,1
+NaMn6O11,Na1O11,Mn->slot6.0,1
+NaFe6O11,Na1O11,Fe->slot6.0,1
+NaNi6O11,Na1O11,Ni->slot6.0,1
+NaCr6O11,Na1O11,Cr->slot6.0,1
+NaCu6O11,Na1O11,Cu->slot6.0,1
+NaCo6O11,Na1O11,Co->slot6.0,1
+NaTi6O11,Na1O11,Ti->slot6.0,1
+NaMn3Fe3O11,Na1O11,Fe/Mn mix slot6.0,1
+NaFe3Ni3O11,Na1O11,Fe/Ni mix slot6.0,1
+NaMn3Ni3O11,Na1O11,Mn/Ni mix slot6.0,1
+NaCo3Ni3O11,Na1O11,Ni/Co mix slot6.0,1
+NaFe3Co3O11,Na1O11,Fe/Co mix slot6.0,1
+Na2Mn6O13,Na2O13,Mn->slot6.0,1
+Na2Fe6O13,Na2O13,Fe->slot6.0,1
+Na2Ni6O13,Na2O13,Ni->slot6.0,1
+Na2Cr6O13,Na2O13,Cr->slot6.0,1
+Na2Cu6O13,Na2O13,Cu->slot6.0,1
+Na2Co6O13,Na2O13,Co->slot6.0,1
+Na2Ti6O13,Na2O13,Ti->slot6.0,1
+Na2Mn3Fe3O13,Na2O13,Fe/Mn mix slot6.0,1
+Na2Fe3Ni3O13,Na2O13,Fe/Ni mix slot6.0,1
+Na2Mn3Ni3O13,Na2O13,Mn/Ni mix slot6.0,1
+Na2Co3Ni3O13,Na2O13,Ni/Co mix slot6.0,1
+Na2Fe3Co3O13,Na2O13,Fe/Co mix slot6.0,1
+NaV7O12,Na1O12,V->slot7.0,1
+NaFe7O12,Na1O12,Fe->slot7.0,1
+NaNi7O12,Na1O12,Ni->slot7.0,1
+NaCr7O12,Na1O12,Cr->slot7.0,1
+NaCu7O12,Na1O12,Cu->slot7.0,1
+NaCo7O12,Na1O12,Co->slot7.0,1
+NaTi7O12,Na1O12,Ti->slot7.0,1
+NaMn(FeO2)6,Na1O12,Fe/Mn mix slot7.0,1
+NaFe6NiO12,Na1O12,Fe/Ni mix slot7.0,1
+NaMn6NiO12,Na1O12,Mn/Ni mix slot7.0,1
+NaCo(NiO2)6,Na1O12,Ni/Co mix slot7.0,1
+NaFe6CoO12,Na1O12,Fe/Co mix slot7.0,1
+NaMn2O5,Na1O5,Mn->slot2.0,3
+NaFe2O5,Na1O5,Fe->slot2.0,3
+NaNi2O5,Na1O5,Ni->slot2.0,3
+NaCr2O5,Na1O5,Cr->slot2.0,3
+NaCu2O5,Na1O5,Cu->slot2.0,3
+NaCo2O5,Na1O5,Co->slot2.0,3
+NaTi2O5,Na1O5,Ti->slot2.0,3
+NaMnFeO5,Na1O5,Fe/Mn mix slot2.0,3
+NaFeNiO5,Na1O5,Fe/Ni mix slot2.0,3
+NaMnNiO5,Na1O5,Mn/Ni mix slot2.0,3
+NaCoNiO5,Na1O5,Ni/Co mix slot2.0,3
+NaFeCoO5,Na1O5,Fe/Co mix slot2.0,3
+NaMn3O8,Na1O8,Mn->slot3.0,2
+NaV3O8,Na1O8,V->slot3.0,2
+NaFe3O8,Na1O8,Fe->slot3.0,2
+NaNi3O8,Na1O8,Ni->slot3.0,2
+NaCu3O8,Na1O8,Cu->slot3.0,2
+NaCo3O8,Na1O8,Co->slot3.0,2
+NaTi3O8,Na1O8,Ti->slot3.0,2
+NaMn(FeO4)2,Na1O8,Fe/Mn mix slot3.0,2
+NaFe2NiO8,Na1O8,Fe/Ni mix slot3.0,2
+NaMn2NiO8,Na1O8,Mn/Ni mix slot3.0,2
+NaCo(NiO4)2,Na1O8,Ni/Co mix slot3.0,2
+NaFe2CoO8,Na1O8,Fe/Co mix slot3.0,2
+Na7Mn2O6,Na7O6,Mn->slot2.0,1
+Na7V2O6,Na7O6,V->slot2.0,1
+Na7(FeO3)2,Na7O6,Fe->slot2.0,1
+Na7(NiO3)2,Na7O6,Ni->slot2.0,1
+Na7Cr2O6,Na7O6,Cr->slot2.0,1
+Na7(CuO3)2,Na7O6,Cu->slot2.0,1
+Na7Ti2O6,Na7O6,Ti->slot2.0,1
+Na7MnFeO6,Na7O6,Fe/Mn mix slot2.0,1
+Na7FeNiO6,Na7O6,Fe/Ni mix slot2.0,1
+Na7MnNiO6,Na7O6,Mn/Ni mix slot2.0,1
+Na7CoNiO6,Na7O6,Ni/Co mix slot2.0,1
+Na7FeCoO6,Na7O6,Fe/Co mix slot2.0,1
+Na5VO4,Na5O4,V->slot1.0,3
+Na5FeO4,Na5O4,Fe->slot1.0,3
+Na5CrO4,Na5O4,Cr->slot1.0,3
+Na5CuO4,Na5O4,Cu->slot1.0,3
+Na5TiO4,Na5O4,Ti->slot1.0,3
+Na2MnO2,Na2O2,Mn->slot1.0,2
+Na2VO2,Na2O2,V->slot1.0,2
+Na2FeO2,Na2O2,Fe->slot1.0,2
+Na2CrO2,Na2O2,Cr->slot1.0,2
+Na2CoO2,Na2O2,Co->slot1.0,2
+Na2TiO2,Na2O2,Ti->slot1.0,2
+Na2Mn6O15,Na2O15,Mn->slot6.0,1
+Na2(Fe2O5)3,Na2O15,Fe->slot6.0,1
+Na2(Ni2O5)3,Na2O15,Ni->slot6.0,1
+Na2Cr6O15,Na2O15,Cr->slot6.0,1
+Na2(Cu2O5)3,Na2O15,Cu->slot6.0,1
+Na2(Co2O5)3,Na2O15,Co->slot6.0,1
+Na2Ti6O15,Na2O15,Ti->slot6.0,1
+Na2Mn3(FeO5)3,Na2O15,Fe/Mn mix slot6.0,1
+Na2Fe3(NiO5)3,Na2O15,Fe/Ni mix slot6.0,1
+Na2Mn3(NiO5)3,Na2O15,Mn/Ni mix slot6.0,1
+Na2Co3(NiO5)3,Na2O15,Ni/Co mix slot6.0,1
+Na2Fe3(CoO5)3,Na2O15,Fe/Co mix slot6.0,1
+Na14V2O9,Na14O9,V->slot2.0,1
+Na14Fe2O9,Na14O9,Fe->slot2.0,1
+Na14Ni2O9,Na14O9,Ni->slot2.0,1
+Na14Cr2O9,Na14O9,Cr->slot2.0,1
+Na14Cu2O9,Na14O9,Cu->slot2.0,1
+Na14Co2O9,Na14O9,Co->slot2.0,1
+Na14Ti2O9,Na14O9,Ti->slot2.0,1
+Na14MnFeO9,Na14O9,Fe/Mn mix slot2.0,1
+Na14FeNiO9,Na14O9,Fe/Ni mix slot2.0,1
+Na14MnNiO9,Na14O9,Mn/Ni mix slot2.0,1
+Na14CoNiO9,Na14O9,Ni/Co mix slot2.0,1
+Na14FeCoO9,Na14O9,Fe/Co mix slot2.0,1
+NaMn8O13,Na1O13,Mn->slot8.0,1
+NaV8O13,Na1O13,V->slot8.0,1
+NaFe8O13,Na1O13,Fe->slot8.0,1
+NaNi8O13,Na1O13,Ni->slot8.0,1
+NaCr8O13,Na1O13,Cr->slot8.0,1
+NaCu8O13,Na1O13,Cu->slot8.0,1
+NaCo8O13,Na1O13,Co->slot8.0,1
+NaMn4Fe4O13,Na1O13,Fe/Mn mix slot8.0,1
+NaFe4Ni4O13,Na1O13,Fe/Ni mix slot8.0,1
+NaMn4Ni4O13,Na1O13,Mn/Ni mix slot8.0,1
+NaCo4Ni4O13,Na1O13,Ni/Co mix slot8.0,1
+NaFe4Co4O13,Na1O13,Fe/Co mix slot8.0,1
+Na2Mn3O7,Na2O7,Mn->slot3.0,1
+Na2Fe3O7,Na2O7,Fe->slot3.0,1
+Na2Ni3O7,Na2O7,Ni->slot3.0,1
+Na2Cr3O7,Na2O7,Cr->slot3.0,1
+Na2Cu3O7,Na2O7,Cu->slot3.0,1
+Na2Co3O7,Na2O7,Co->slot3.0,1
+Na2Ti3O7,Na2O7,Ti->slot3.0,1
+Na2MnFe2O7,Na2O7,Fe/Mn mix slot3.0,1
+Na2Fe2NiO7,Na2O7,Fe/Ni mix slot3.0,1
+Na2Mn2NiO7,Na2O7,Mn/Ni mix slot3.0,1
+Na2CoNi2O7,Na2O7,Ni/Co mix slot3.0,1
+Na2Fe2CoO7,Na2O7,Fe/Co mix slot3.0,1
+NaMn2O2,Na1O2,Mn->slot2.0,2
+NaV2O2,Na1O2,V->slot2.0,2
+Na(FeO)2,Na1O2,Fe->slot2.0,2
+Na(NiO)2,Na1O2,Ni->slot2.0,2
+NaCr2O2,Na1O2,Cr->slot2.0,2
+Na(CoO)2,Na1O2,Co->slot2.0,2
+NaTi2O2,Na1O2,Ti->slot2.0,2
+NaMnFeO2,Na1O2,Fe/Mn mix slot2.0,2
+NaFeNiO2,Na1O2,Fe/Ni mix slot2.0,2
+NaMnNiO2,Na1O2,Mn/Ni mix slot2.0,2
+NaCoNiO2,Na1O2,Ni/Co mix slot2.0,2
+NaFeCoO2,Na1O2,Fe/Co mix slot2.0,2
+NaMn5O8,Na1O8,Mn->slot5.0,1
+NaV5O8,Na1O8,V->slot5.0,1
+NaNi5O8,Na1O8,Ni->slot5.0,1
+NaCr5O8,Na1O8,Cr->slot5.0,1
+NaCu5O8,Na1O8,Cu->slot5.0,1
+NaCo5O8,Na1O8,Co->slot5.0,1
+NaTi5O8,Na1O8,Ti->slot5.0,1
+NaMn(FeO2)4,Na1O8,Fe/Mn mix slot5.0,1
+NaFe4NiO8,Na1O8,Fe/Ni mix slot5.0,1
+NaMn4NiO8,Na1O8,Mn/Ni mix slot5.0,1
+NaCo(NiO2)4,Na1O8,Ni/Co mix slot5.0,1
+NaFe4CoO8,Na1O8,Fe/Co mix slot5.0,1
+Na3Mn6O13,Na3O13,Mn->slot6.0,1
+Na3V6O13,Na3O13,V->slot6.0,1
+Na3Fe6O13,Na3O13,Fe->slot6.0,1
+Na3Ni6O13,Na3O13,Ni->slot6.0,1
+Na3Cr6O13,Na3O13,Cr->slot6.0,1
+Na3Cu6O13,Na3O13,Cu->slot6.0,1
+Na3Co6O13,Na3O13,Co->slot6.0,1
+Na3Mn3Fe3O13,Na3O13,Fe/Mn mix slot6.0,1
+Na3Fe3Ni3O13,Na3O13,Fe/Ni mix slot6.0,1
+Na3Mn3Ni3O13,Na3O13,Mn/Ni mix slot6.0,1
+Na3Co3Ni3O13,Na3O13,Ni/Co mix slot6.0,1
+Na3Fe3Co3O13,Na3O13,Fe/Co mix slot6.0,1
+Na3MnF6,F6Na3,Mn->slot1.0,1
+Na3VF6,F6Na3,V->slot1.0,1
+Na3FeF6,F6Na3,Fe->slot1.0,1
+Na3NiF6,F6Na3,Ni->slot1.0,1
+Na3CuF6,F6Na3,Cu->slot1.0,1
+Na3CoF6,F6Na3,Co->slot1.0,1
+Na3TiF6,F6Na3,Ti->slot1.0,1
+NaFeF3,F3Na1,Fe->slot1.0,2
+NaNiF3,F3Na1,Ni->slot1.0,2
+NaCrF3,F3Na1,Cr->slot1.0,2
+NaCuF3,F3Na1,Cu->slot1.0,2
+NaCoF3,F3Na1,Co->slot1.0,2
+Na9Mn14O35,Na9O35,Mn->slot14.0,1
+Na9(Fe2O5)7,Na9O35,Fe->slot14.0,1
+Na9(Ni2O5)7,Na9O35,Ni->slot14.0,1
+Na9Cr14O35,Na9O35,Cr->slot14.0,1
+Na9(Cu2O5)7,Na9O35,Cu->slot14.0,1
+Na9(Co2O5)7,Na9O35,Co->slot14.0,1
+Na9Ti14O35,Na9O35,Ti->slot14.0,1
+Na9Mn7(FeO5)7,Na9O35,Fe/Mn mix slot14.0,1
+Na9Fe7(NiO5)7,Na9O35,Fe/Ni mix slot14.0,1
+Na9Mn7(NiO5)7,Na9O35,Mn/Ni mix slot14.0,1
+Na9Co7(NiO5)7,Na9O35,Ni/Co mix slot14.0,1
+Na9Fe7(CoO5)7,Na9O35,Fe/Co mix slot14.0,1
+NaMnO,Na1O1,Mn->slot1.0,1
+NaVO,Na1O1,V->slot1.0,1
+NaFeO,Na1O1,Fe->slot1.0,1
+NaNiO,Na1O1,Ni->slot1.0,1
+NaCrO,Na1O1,Cr->slot1.0,1
+NaCoO,Na1O1,Co->slot1.0,1
+NaTiO,Na1O1,Ti->slot1.0,1
+NaMn5O10,Na1O10,Mn->slot5.0,1
+Na(FeO2)5,Na1O10,Fe->slot5.0,1
+Na(NiO2)5,Na1O10,Ni->slot5.0,1
+NaCr5O10,Na1O10,Cr->slot5.0,1
+Na(CuO2)5,Na1O10,Cu->slot5.0,1
+Na(CoO2)5,Na1O10,Co->slot5.0,1
+NaTi5O10,Na1O10,Ti->slot5.0,1
+NaMn(Fe2O5)2,Na1O10,Fe/Mn mix slot5.0,1
+NaFe4NiO10,Na1O10,Fe/Ni mix slot5.0,1
+NaMn4NiO10,Na1O10,Mn/Ni mix slot5.0,1
+NaCo(Ni2O5)2,Na1O10,Ni/Co mix slot5.0,1
+NaFe4CoO10,Na1O10,Fe/Co mix slot5.0,1
+Na7Mn7O13,Na7O13,Mn->slot7.0,1
+Na7V7O13,Na7O13,V->slot7.0,1
+Na7Fe7O13,Na7O13,Fe->slot7.0,1
+Na7Ni7O13,Na7O13,Ni->slot7.0,1
+Na7Cr7O13,Na7O13,Cr->slot7.0,1
+Na7Co7O13,Na7O13,Co->slot7.0,1
+Na7Ti7O13,Na7O13,Ti->slot7.0,1
+Na7MnFe6O13,Na7O13,Fe/Mn mix slot7.0,1
+Na7Fe6NiO13,Na7O13,Fe/Ni mix slot7.0,1
+Na7Mn6NiO13,Na7O13,Mn/Ni mix slot7.0,1
+Na7CoNi6O13,Na7O13,Ni/Co mix slot7.0,1
+Na7Fe6CoO13,Na7O13,Fe/Co mix slot7.0,1
+Na4Mn3O8,Na4O8,Mn->slot3.0,1
+Na4Fe3O8,Na4O8,Fe->slot3.0,1
+Na4Ni3O8,Na4O8,Ni->slot3.0,1
+Na4Cr3O8,Na4O8,Cr->slot3.0,1
+Na4Cu3O8,Na4O8,Cu->slot3.0,1
+Na4Co3O8,Na4O8,Co->slot3.0,1
+Na4Ti3O8,Na4O8,Ti->slot3.0,1
+Na4Mn(FeO4)2,Na4O8,Fe/Mn mix slot3.0,1
+Na4Fe2NiO8,Na4O8,Fe/Ni mix slot3.0,1
+Na4Mn2NiO8,Na4O8,Mn/Ni mix slot3.0,1
+Na4Co(NiO4)2,Na4O8,Ni/Co mix slot3.0,1
+Na4Fe2CoO8,Na4O8,Fe/Co mix slot3.0,1
+NaMn5O6,Na1O6,Mn->slot5.0,1
+NaV5O6,Na1O6,V->slot5.0,1
+NaFe5O6,Na1O6,Fe->slot5.0,1
+NaCr5O6,Na1O6,Cr->slot5.0,1
+NaCu5O6,Na1O6,Cu->slot5.0,1
+NaCo5O6,Na1O6,Co->slot5.0,1
+NaTi5O6,Na1O6,Ti->slot5.0,1
+NaMn(Fe2O3)2,Na1O6,Fe/Mn mix slot5.0,1
+NaFe4NiO6,Na1O6,Fe/Ni mix slot5.0,1
+NaMn4NiO6,Na1O6,Mn/Ni mix slot5.0,1
+NaCo(Ni2O3)2,Na1O6,Ni/Co mix slot5.0,1
+NaFe4CoO6,Na1O6,Fe/Co mix slot5.0,1
+Na4Mn5O10,Na4O10,Mn->slot5.0,1
+Na4V5O10,Na4O10,V->slot5.0,1
+Na4(FeO2)5,Na4O10,Fe->slot5.0,1
+Na4Cr5O10,Na4O10,Cr->slot5.0,1
+Na4(CuO2)5,Na4O10,Cu->slot5.0,1
+Na4(CoO2)5,Na4O10,Co->slot5.0,1
+Na4Ti5O10,Na4O10,Ti->slot5.0,1
+Na4Mn(Fe2O5)2,Na4O10,Fe/Mn mix slot5.0,1
+Na4Fe4NiO10,Na4O10,Fe/Ni mix slot5.0,1
+Na4Mn4NiO10,Na4O10,Mn/Ni mix slot5.0,1
+Na4Co(Ni2O5)2,Na4O10,Ni/Co mix slot5.0,1
+Na4Fe4CoO10,Na4O10,Fe/Co mix slot5.0,1
+Na5Mn3O8,Na5O8,Mn->slot3.0,1
+Na5V3O8,Na5O8,V->slot3.0,1
+Na5Fe3O8,Na5O8,Fe->slot3.0,1
+Na5Ni3O8,Na5O8,Ni->slot3.0,1
+Na5Cr3O8,Na5O8,Cr->slot3.0,1
+Na5Cu3O8,Na5O8,Cu->slot3.0,1
+Na5Co3O8,Na5O8,Co->slot3.0,1
+Na5Mn(FeO4)2,Na5O8,Fe/Mn mix slot3.0,1
+Na5Fe2NiO8,Na5O8,Fe/Ni mix slot3.0,1
+Na5Mn2NiO8,Na5O8,Mn/Ni mix slot3.0,1
+Na5Co(NiO4)2,Na5O8,Ni/Co mix slot3.0,1
+Na5Fe2CoO8,Na5O8,Fe/Co mix slot3.0,1
+NaMn3O4,Na1O4,Mn->slot3.0,1
+NaV3O4,Na1O4,V->slot3.0,1
+NaFe3O4,Na1O4,Fe->slot3.0,1
+NaCr3O4,Na1O4,Cr->slot3.0,1
+NaCu3O4,Na1O4,Cu->slot3.0,1
+NaCo3O4,Na1O4,Co->slot3.0,1
+NaTi3O4,Na1O4,Ti->slot3.0,1
+NaMn(FeO2)2,Na1O4,Fe/Mn mix slot3.0,1
+NaFe2NiO4,Na1O4,Fe/Ni mix slot3.0,1
+NaMn2NiO4,Na1O4,Mn/Ni mix slot3.0,1
+NaCo(NiO2)2,Na1O4,Ni/Co mix slot3.0,1
+NaFe2CoO4,Na1O4,Fe/Co mix slot3.0,1
+Na3Mn2O5,Na3O5,Mn->slot2.0,1
+Na3V2O5,Na3O5,V->slot2.0,1
+Na3Fe2O5,Na3O5,Fe->slot2.0,1
+Na3Cr2O5,Na3O5,Cr->slot2.0,1
+Na3Cu2O5,Na3O5,Cu->slot2.0,1
+Na3Co2O5,Na3O5,Co->slot2.0,1
+Na3Ti2O5,Na3O5,Ti->slot2.0,1
+Na3MnFeO5,Na3O5,Fe/Mn mix slot2.0,1
+Na3FeNiO5,Na3O5,Fe/Ni mix slot2.0,1
+Na3MnNiO5,Na3O5,Mn/Ni mix slot2.0,1
+Na3CoNiO5,Na3O5,Ni/Co mix slot2.0,1
+Na3FeCoO5,Na3O5,Fe/Co mix slot2.0,1
+Na5Mn16O32,Na5O32,Mn->slot16.0,1
+Na5V16O32,Na5O32,V->slot16.0,1
+Na5(FeO2)16,Na5O32,Fe->slot16.0,1
+Na5(NiO2)16,Na5O32,Ni->slot16.0,1
+Na5Cr16O32,Na5O32,Cr->slot16.0,1
+Na5(CuO2)16,Na5O32,Cu->slot16.0,1
+Na5(CoO2)16,Na5O32,Co->slot16.0,1
+Na5Mn8(FeO4)8,Na5O32,Fe/Mn mix slot16.0,1
+Na5Fe8(NiO4)8,Na5O32,Fe/Ni mix slot16.0,1
+Na5Mn8(NiO4)8,Na5O32,Mn/Ni mix slot16.0,1
+Na5Co8(NiO4)8,Na5O32,Ni/Co mix slot16.0,1
+Na5Fe8(CoO4)8,Na5O32,Fe/Co mix slot16.0,1
+Na13Mn24O54,Na13O54,Mn->slot24.0,1
+Na13V24O54,Na13O54,V->slot24.0,1
+Na13(Fe4O9)6,Na13O54,Fe->slot24.0,1
+Na13(Ni4O9)6,Na13O54,Ni->slot24.0,1
+Na13Cr24O54,Na13O54,Cr->slot24.0,1
+Na13(Cu4O9)6,Na13O54,Cu->slot24.0,1
+Na13(Co4O9)6,Na13O54,Co->slot24.0,1
+Na13Mn12(Fe2O9)6,Na13O54,Fe/Mn mix slot24.0,1
+Na13Fe12(Ni2O9)6,Na13O54,Fe/Ni mix slot24.0,1
+Na13Mn12(Ni2O9)6,Na13O54,Mn/Ni mix slot24.0,1
+Na13Co12(Ni2O9)6,Na13O54,Ni/Co mix slot24.0,1
+Na13Fe12(Co2O9)6,Na13O54,Fe/Co mix slot24.0,1
+NaMn6O8,Na1O8,Mn->slot6.0,1
+NaV6O8,Na1O8,V->slot6.0,1
+Na(Fe3O4)2,Na1O8,Fe->slot6.0,1
+Na(Ni3O4)2,Na1O8,Ni->slot6.0,1
+NaCr6O8,Na1O8,Cr->slot6.0,1
+Na(Co3O4)2,Na1O8,Co->slot6.0,1
+NaTi6O8,Na1O8,Ti->slot6.0,1
+NaMn3Fe3O8,Na1O8,Fe/Mn mix slot6.0,1
+NaFe3Ni3O8,Na1O8,Fe/Ni mix slot6.0,1
+NaMn3Ni3O8,Na1O8,Mn/Ni mix slot6.0,1
+NaCo3Ni3O8,Na1O8,Ni/Co mix slot6.0,1
+NaFe3Co3O8,Na1O8,Fe/Co mix slot6.0,1
+Na7Mn11O24,Na7O24,Mn->slot11.0,1
+Na7V11O24,Na7O24,V->slot11.0,1
+Na7Fe11O24,Na7O24,Fe->slot11.0,1
+Na7Ni11O24,Na7O24,Ni->slot11.0,1
+Na7Cr11O24,Na7O24,Cr->slot11.0,1
+Na7Cu11O24,Na7O24,Cu->slot11.0,1
+Na7Co11O24,Na7O24,Co->slot11.0,1
+Na7Mn(Fe5O12)2,Na7O24,Fe/Mn mix slot11.0,1
+Na7Fe10NiO24,Na7O24,Fe/Ni mix slot11.0,1
+Na7Mn10NiO24,Na7O24,Mn/Ni mix slot11.0,1
+Na7Co(Ni5O12)2,Na7O24,Ni/Co mix slot11.0,1
+Na7Fe10CoO24,Na7O24,Fe/Co mix slot11.0,1
+Na9V15O32,Na9O32,V->slot15.0,1
+Na9Fe15O32,Na9O32,Fe->slot15.0,1
+Na9Ni15O32,Na9O32,Ni->slot15.0,1
+Na9Cr15O32,Na9O32,Cr->slot15.0,1
+Na9Cu15O32,Na9O32,Cu->slot15.0,1
+Na9Co15O32,Na9O32,Co->slot15.0,1
+Na9Ti15O32,Na9O32,Ti->slot15.0,1
+Na9Mn(Fe7O16)2,Na9O32,Fe/Mn mix slot15.0,1
+Na9Fe14NiO32,Na9O32,Fe/Ni mix slot15.0,1
+Na9Mn14NiO32,Na9O32,Mn/Ni mix slot15.0,1
+Na9Co(Ni7O16)2,Na9O32,Ni/Co mix slot15.0,1
+Na9Fe14CoO32,Na9O32,Fe/Co mix slot15.0,1
+NaMn4O8,Na1O8,Mn->slot4.0,1
+NaV4O8,Na1O8,V->slot4.0,1
+Na(FeO2)4,Na1O8,Fe->slot4.0,1
+Na(NiO2)4,Na1O8,Ni->slot4.0,1
+Na(CuO2)4,Na1O8,Cu->slot4.0,1
+Na(CoO2)4,Na1O8,Co->slot4.0,1
+NaTi4O8,Na1O8,Ti->slot4.0,1
+NaMn2(FeO4)2,Na1O8,Fe/Mn mix slot4.0,1
+NaFe2(NiO4)2,Na1O8,Fe/Ni mix slot4.0,1
+NaMn2(NiO4)2,Na1O8,Mn/Ni mix slot4.0,1
+NaCo2(NiO4)2,Na1O8,Ni/Co mix slot4.0,1
+NaFe2(CoO4)2,Na1O8,Fe/Co mix slot4.0,1
+Na3Mn24O58,Na3O58,Mn->slot24.0,1
+Na3(Fe12O29)2,Na3O58,Fe->slot24.0,1
+Na3(Ni12O29)2,Na3O58,Ni->slot24.0,1
+Na3Cr24O58,Na3O58,Cr->slot24.0,1
+Na3(Cu12O29)2,Na3O58,Cu->slot24.0,1
+Na3(Co12O29)2,Na3O58,Co->slot24.0,1
+Na3Ti24O58,Na3O58,Ti->slot24.0,1
+Na3Mn12(Fe6O29)2,Na3O58,Fe/Mn mix slot24.0,1
+Na3Fe12(Ni6O29)2,Na3O58,Fe/Ni mix slot24.0,1
+Na3Mn12(Ni6O29)2,Na3O58,Mn/Ni mix slot24.0,1
+Na3Co12(Ni6O29)2,Na3O58,Ni/Co mix slot24.0,1
+Na3Fe12(Co6O29)2,Na3O58,Fe/Co mix slot24.0,1
+Na8Mn9O18,Na8O18,Mn->slot9.0,1
+Na8V9O18,Na8O18,V->slot9.0,1
+Na8(FeO2)9,Na8O18,Fe->slot9.0,1
+Na8Cr9O18,Na8O18,Cr->slot9.0,1
+Na8(CuO2)9,Na8O18,Cu->slot9.0,1
+Na8(CoO2)9,Na8O18,Co->slot9.0,1
+Na8Ti9O18,Na8O18,Ti->slot9.0,1
+Na8Mn(Fe4O9)2,Na8O18,Fe/Mn mix slot9.0,1
+Na8Fe8NiO18,Na8O18,Fe/Ni mix slot9.0,1
+Na8Mn8NiO18,Na8O18,Mn/Ni mix slot9.0,1
+Na8Co(Ni4O9)2,Na8O18,Ni/Co mix slot9.0,1
+Na8Fe8CoO18,Na8O18,Fe/Co mix slot9.0,1
+Na5Mn36O88,Na5O88,Mn->slot36.0,1
+Na5(Fe9O22)4,Na5O88,Fe->slot36.0,1
+Na5(Ni9O22)4,Na5O88,Ni->slot36.0,1
+Na5Cr36O88,Na5O88,Cr->slot36.0,1
+Na5(Cu9O22)4,Na5O88,Cu->slot36.0,1
+Na5(Co9O22)4,Na5O88,Co->slot36.0,1
+Na5Ti36O88,Na5O88,Ti->slot36.0,1
+Na5Mn18(Fe9O44)2,Na5O88,Fe/Mn mix slot36.0,1
+Na5Fe18(Ni9O44)2,Na5O88,Fe/Ni mix slot36.0,1
+Na5Mn18(Ni9O44)2,Na5O88,Mn/Ni mix slot36.0,1
+Na5Co18(Ni9O44)2,Na5O88,Ni/Co mix slot36.0,1
+Na5Fe18(Co9O44)2,Na5O88,Fe/Co mix slot36.0,1
+Na9V21O40,Na9O40,V->slot21.0,1
+Na9Fe21O40,Na9O40,Fe->slot21.0,1
+Na9Ni21O40,Na9O40,Ni->slot21.0,1
+Na9Cr21O40,Na9O40,Cr->slot21.0,1
+Na9Cu21O40,Na9O40,Cu->slot21.0,1
+Na9Co21O40,Na9O40,Co->slot21.0,1
+Na9Ti21O40,Na9O40,Ti->slot21.0,1
+Na9Mn(FeO2)20,Na9O40,Fe/Mn mix slot21.0,1
+Na9Fe20NiO40,Na9O40,Fe/Ni mix slot21.0,1
+Na9Mn20NiO40,Na9O40,Mn/Ni mix slot21.0,1
+Na9Co(NiO2)20,Na9O40,Ni/Co mix slot21.0,1
+Na9Fe20CoO40,Na9O40,Fe/Co mix slot21.0,1
+Na(Mn3S4)2,Na1S8,Mn->slot6.0,1
+Na(Fe3S4)2,Na1S8,Fe->slot6.0,1
+Na(Ni3S4)2,Na1S8,Ni->slot6.0,1
+Na(Cr3S4)2,Na1S8,Cr->slot6.0,1
+Na(Cu3S4)2,Na1S8,Cu->slot6.0,1
+Na(Co3S4)2,Na1S8,Co->slot6.0,1
+Na(Ti3S4)2,Na1S8,Ti->slot6.0,1
+NaMn3Fe3S8,Na1S8,Fe/Mn mix slot6.0,1
+NaFe3Ni3S8,Na1S8,Fe/Ni mix slot6.0,1
+NaMn3Ni3S8,Na1S8,Mn/Ni mix slot6.0,1
+NaCo3Ni3S8,Na1S8,Ni/Co mix slot6.0,1
+NaFe3Co3S8,Na1S8,Fe/Co mix slot6.0,1
+Na5Mn12O24,Na5O24,Mn->slot12.0,1
+Na5V12O24,Na5O24,V->slot12.0,1
+Na5(FeO2)12,Na5O24,Fe->slot12.0,1
+Na5(NiO2)12,Na5O24,Ni->slot12.0,1
+Na5Cr12O24,Na5O24,Cr->slot12.0,1
+Na5(CuO2)12,Na5O24,Cu->slot12.0,1
+Na5(CoO2)12,Na5O24,Co->slot12.0,1
+Na5Mn6(FeO4)6,Na5O24,Fe/Mn mix slot12.0,1
+Na5Fe6(NiO4)6,Na5O24,Fe/Ni mix slot12.0,1
+Na5Mn6(NiO4)6,Na5O24,Mn/Ni mix slot12.0,1
+Na5Co6(NiO4)6,Na5O24,Ni/Co mix slot12.0,1
+Na5Fe6(CoO4)6,Na5O24,Fe/Co mix slot12.0,1
+NaNi3P3O13,Na1O13P3,Ni->slot3.0,4
+NaCr3P3O13,Na1O13P3,Cr->slot3.0,4
+NaCu3P3O13,Na1O13P3,Cu->slot3.0,4
+NaCo3P3O13,Na1O13P3,Co->slot3.0,4
+NaMnFe2P3O13,Na1O13P3,Fe/Mn mix slot3.0,4
+NaFe2NiP3O13,Na1O13P3,Fe/Ni mix slot3.0,4
+NaMn2NiP3O13,Na1O13P3,Mn/Ni mix slot3.0,4
+NaCoNi2P3O13,Na1O13P3,Ni/Co mix slot3.0,4
+NaFe2CoP3O13,Na1O13P3,Fe/Co mix slot3.0,4
+NaFe2P2O9,Na1O9P2,Fe->slot2.0,3
+NaCu2P2O9,Na1O9P2,Cu->slot2.0,3
+NaCo2P2O9,Na1O9P2,Co->slot2.0,3
+NaTi2P2O9,Na1O9P2,Ti->slot2.0,3
+NaMnFeP2O9,Na1O9P2,Fe/Mn mix slot2.0,3
+NaFeNiP2O9,Na1O9P2,Fe/Ni mix slot2.0,3
+NaMnNiP2O9,Na1O9P2,Mn/Ni mix slot2.0,3
+NaCoNiP2O9,Na1O9P2,Ni/Co mix slot2.0,3
+NaFeCoP2O9,Na1O9P2,Fe/Co mix slot2.0,3
+NaV6P7O24,Na1O24P7,V->slot6.0,1
+NaFe6P7O24,Na1O24P7,Fe->slot6.0,1
+NaNi6P7O24,Na1O24P7,Ni->slot6.0,1
+NaCr6P7O24,Na1O24P7,Cr->slot6.0,1
+NaCu6P7O24,Na1O24P7,Cu->slot6.0,1
+NaCo6P7O24,Na1O24P7,Co->slot6.0,1
+NaTi6P7O24,Na1O24P7,Ti->slot6.0,1
+NaMn3Fe3P7O24,Na1O24P7,Fe/Mn mix slot6.0,1
+NaFe3Ni3P7O24,Na1O24P7,Fe/Ni mix slot6.0,1
+NaMn3Ni3P7O24,Na1O24P7,Mn/Ni mix slot6.0,1
+NaCo3Ni3P7O24,Na1O24P7,Ni/Co mix slot6.0,1
+NaFe3Co3P7O24,Na1O24P7,Fe/Co mix slot6.0,1
+NaNiP2O7,Na1O7P2,Ni->slot1.0,8
+NaCuP2O7,Na1O7P2,Cu->slot1.0,8
+NaCoP2O7,Na1O7P2,Co->slot1.0,8
+NaVAsO4,As1Na1O4,V->slot1.0,1
+NaFeAsO4,As1Na1O4,Fe->slot1.0,1
+NaNiAsO4,As1Na1O4,Ni->slot1.0,1
+NaCrAsO4,As1Na1O4,Cr->slot1.0,1
+NaCuAsO4,As1Na1O4,Cu->slot1.0,1
+NaCoAsO4,As1Na1O4,Co->slot1.0,1
+NaTiAsO4,As1Na1O4,Ti->slot1.0,1
+NaVPO4,Na1O4P1,V->slot1.0,13
+NaCrPO4,Na1O4P1,Cr->slot1.0,13
+NaTiPO4,Na1O4P1,Ti->slot1.0,13
+Na4Mn2(PO4)3,Na4O12P3,Mn->slot2.0,1
+Na4V2(PO4)3,Na4O12P3,V->slot2.0,1
+Na4Ni2(PO4)3,Na4O12P3,Ni->slot2.0,1
+Na4Cr2(PO4)3,Na4O12P3,Cr->slot2.0,1
+Na4Cu2(PO4)3,Na4O12P3,Cu->slot2.0,1
+Na4Co2(PO4)3,Na4O12P3,Co->slot2.0,1
+Na4Ti2(PO4)3,Na4O12P3,Ti->slot2.0,1
+Na4MnFe(PO4)3,Na4O12P3,Fe/Mn mix slot2.0,1
+Na4FeNi(PO4)3,Na4O12P3,Fe/Ni mix slot2.0,1
+Na4MnNi(PO4)3,Na4O12P3,Mn/Ni mix slot2.0,1
+Na4CoNi(PO4)3,Na4O12P3,Ni/Co mix slot2.0,1
+Na4FeCo(PO4)3,Na4O12P3,Fe/Co mix slot2.0,1
+NaMnPO5,Na1O5P1,Mn->slot1.0,3
+NaFePO5,Na1O5P1,Fe->slot1.0,3
+NaNiPO5,Na1O5P1,Ni->slot1.0,3
+NaCrPO5,Na1O5P1,Cr->slot1.0,3
+NaCuPO5,Na1O5P1,Cu->slot1.0,3
+NaCoPO5,Na1O5P1,Co->slot1.0,3
+NaTiPO5,Na1O5P1,Ti->slot1.0,3
+NaSi2NiO6,Na1O6Si2,Ni->slot1.0,5
+NaCu(SiO3)2,Na1O6Si2,Cu->slot1.0,5
+NaCo(SiO3)2,Na1O6Si2,Co->slot1.0,5
+Na4Mn7(PO4)6,Na4O24P6,Mn->slot7.0,1
+Na4V7(PO4)6,Na4O24P6,V->slot7.0,1
+Na4Fe7(PO4)6,Na4O24P6,Fe->slot7.0,1
+Na4Cr7(PO4)6,Na4O24P6,Cr->slot7.0,1
+Na4Cu7(PO4)6,Na4O24P6,Cu->slot7.0,1
+Na4Co7(PO4)6,Na4O24P6,Co->slot7.0,1
+Na4Ti7(PO4)6,Na4O24P6,Ti->slot7.0,1
+Na4MnFe6(PO4)6,Na4O24P6,Fe/Mn mix slot7.0,1
+Na4Fe6Ni(PO4)6,Na4O24P6,Fe/Ni mix slot7.0,1
+Na4Mn6Ni(PO4)6,Na4O24P6,Mn/Ni mix slot7.0,1
+Na4CoNi6(PO4)6,Na4O24P6,Ni/Co mix slot7.0,1
+Na4Fe6Co(PO4)6,Na4O24P6,Fe/Co mix slot7.0,1
+Na2Mn(PO4)2,Na2O8P2,Mn->slot1.0,1
+Na2Fe(PO4)2,Na2O8P2,Fe->slot1.0,1
+Na2Ni(PO4)2,Na2O8P2,Ni->slot1.0,1
+Na2Cr(PO4)2,Na2O8P2,Cr->slot1.0,1
+Na2Cu(PO4)2,Na2O8P2,Cu->slot1.0,1
+Na2Co(PO4)2,Na2O8P2,Co->slot1.0,1
+Na2Ti(PO4)2,Na2O8P2,Ti->slot1.0,1
+NaMn4(PO4)3,Na1O12P3,Mn->slot4.0,1
+NaV4(PO4)3,Na1O12P3,V->slot4.0,1
+NaFe4(PO4)3,Na1O12P3,Fe->slot4.0,1
+NaCr4(PO4)3,Na1O12P3,Cr->slot4.0,1
+NaCu4(PO4)3,Na1O12P3,Cu->slot4.0,1
+NaCo4(PO4)3,Na1O12P3,Co->slot4.0,1
+NaTi4(PO4)3,Na1O12P3,Ti->slot4.0,1
+NaMn2Fe2(PO4)3,Na1O12P3,Fe/Mn mix slot4.0,1
+NaFe2Ni2(PO4)3,Na1O12P3,Fe/Ni mix slot4.0,1
+NaMn2Ni2(PO4)3,Na1O12P3,Mn/Ni mix slot4.0,1
+NaCo2Ni2(PO4)3,Na1O12P3,Ni/Co mix slot4.0,1
+NaFe2Co2(PO4)3,Na1O12P3,Fe/Co mix slot4.0,1
+Na2Mn5(Si2O7)2,Na2O14Si4,Mn->slot5.0,1
+Na2V5(Si2O7)2,Na2O14Si4,V->slot5.0,1
+Na2Fe5(Si2O7)2,Na2O14Si4,Fe->slot5.0,1
+Na2Si4Ni5O14,Na2O14Si4,Ni->slot5.0,1
+Na2Cr5(Si2O7)2,Na2O14Si4,Cr->slot5.0,1
+Na2Co5(Si2O7)2,Na2O14Si4,Co->slot5.0,1
+Na2Ti5(Si2O7)2,Na2O14Si4,Ti->slot5.0,1
+Na2MnFe4(Si2O7)2,Na2O14Si4,Fe/Mn mix slot5.0,1
+Na2Fe4Si4NiO14,Na2O14Si4,Fe/Ni mix slot5.0,1
+Na2Mn4Si4NiO14,Na2O14Si4,Mn/Ni mix slot5.0,1
+Na2CoSi4(Ni2O7)2,Na2O14Si4,Ni/Co mix slot5.0,1
+Na2Fe4Co(Si2O7)2,Na2O14Si4,Fe/Co mix slot5.0,1
+NaV(PO3)3,Na1O9P3,V->slot1.0,5
+NaCr(PO3)3,Na1O9P3,Cr->slot1.0,5
+NaCo(PO3)3,Na1O9P3,Co->slot1.0,5
+NaTi(PO3)3,Na1O9P3,Ti->slot1.0,5
+NaMn2P3O10,Na1O10P3,Mn->slot2.0,2
+NaV2P3O10,Na1O10P3,V->slot2.0,2
+NaFe2P3O10,Na1O10P3,Fe->slot2.0,2
+NaCr2P3O10,Na1O10P3,Cr->slot2.0,2
+NaCu2P3O10,Na1O10P3,Cu->slot2.0,2
+NaTi2P3O10,Na1O10P3,Ti->slot2.0,2
+NaMnFeP3O10,Na1O10P3,Fe/Mn mix slot2.0,2
+NaFeNiP3O10,Na1O10P3,Fe/Ni mix slot2.0,2
+NaMnNiP3O10,Na1O10P3,Mn/Ni mix slot2.0,2
+NaCoNiP3O10,Na1O10P3,Ni/Co mix slot2.0,2
+NaFeCoP3O10,Na1O10P3,Fe/Co mix slot2.0,2
+Na2Mn3(P2O7)2,Na2O14P4,Mn->slot3.0,1
+Na2V3(P2O7)2,Na2O14P4,V->slot3.0,1
+Na2Fe3(P2O7)2,Na2O14P4,Fe->slot3.0,1
+Na2Cr3(P2O7)2,Na2O14P4,Cr->slot3.0,1
+Na2Cu3(P2O7)2,Na2O14P4,Cu->slot3.0,1
+Na2Co3(P2O7)2,Na2O14P4,Co->slot3.0,1
+Na2Ti3(P2O7)2,Na2O14P4,Ti->slot3.0,1
+Na2MnFe2(P2O7)2,Na2O14P4,Fe/Mn mix slot3.0,1
+Na2Fe2Ni(P2O7)2,Na2O14P4,Fe/Ni mix slot3.0,1
+Na2Mn2Ni(P2O7)2,Na2O14P4,Mn/Ni mix slot3.0,1
+Na2CoNi2(P2O7)2,Na2O14P4,Ni/Co mix slot3.0,1
+Na2Fe2Co(P2O7)2,Na2O14P4,Fe/Co mix slot3.0,1
+Na3Mn2(PO4)3,Na3O12P3,Mn->slot2.0,5
+Na3Ni2(PO4)3,Na3O12P3,Ni->slot2.0,5
+Na3Cu2(PO4)3,Na3O12P3,Cu->slot2.0,5
+Na3Co2(PO4)3,Na3O12P3,Co->slot2.0,5
+Na3MnFe(PO4)3,Na3O12P3,Fe/Mn mix slot2.0,5
+Na3FeNi(PO4)3,Na3O12P3,Fe/Ni mix slot2.0,5
+Na3MnNi(PO4)3,Na3O12P3,Mn/Ni mix slot2.0,5
+Na3CoNi(PO4)3,Na3O12P3,Ni/Co mix slot2.0,5
+Na3FeCo(PO4)3,Na3O12P3,Fe/Co mix slot2.0,5
+Na6Mn9(PO4)8,Na6O32P8,Mn->slot9.0,1
+Na6V9(PO4)8,Na6O32P8,V->slot9.0,1
+Na6Fe9(PO4)8,Na6O32P8,Fe->slot9.0,1
+Na6Ni9(PO4)8,Na6O32P8,Ni->slot9.0,1
+Na6Cr9(PO4)8,Na6O32P8,Cr->slot9.0,1
+Na6Co9(PO4)8,Na6O32P8,Co->slot9.0,1
+Na6Ti9(PO4)8,Na6O32P8,Ti->slot9.0,1
+Na6MnFe8(PO4)8,Na6O32P8,Fe/Mn mix slot9.0,1
+Na6Fe8Ni(PO4)8,Na6O32P8,Fe/Ni mix slot9.0,1
+Na6Mn8Ni(PO4)8,Na6O32P8,Mn/Ni mix slot9.0,1
+Na6CoNi8(PO4)8,Na6O32P8,Ni/Co mix slot9.0,1
+Na6Fe8Co(PO4)8,Na6O32P8,Fe/Co mix slot9.0,1
+Na4Mn5(P3O11)2,Na4O22P6,Mn->slot5.0,1
+Na4V5(P3O11)2,Na4O22P6,V->slot5.0,1
+Na4Fe5(P3O11)2,Na4O22P6,Fe->slot5.0,1
+Na4Cr5(P3O11)2,Na4O22P6,Cr->slot5.0,1
+Na4Cu5(P3O11)2,Na4O22P6,Cu->slot5.0,1
+Na4Co5(P3O11)2,Na4O22P6,Co->slot5.0,1
+Na4Ti5(P3O11)2,Na4O22P6,Ti->slot5.0,1
+Na4MnFe4(P3O11)2,Na4O22P6,Fe/Mn mix slot5.0,1
+Na4Fe4Ni(P3O11)2,Na4O22P6,Fe/Ni mix slot5.0,1
+Na4Mn4Ni(P3O11)2,Na4O22P6,Mn/Ni mix slot5.0,1
+Na4CoNi4(P3O11)2,Na4O22P6,Ni/Co mix slot5.0,1
+Na4Fe4Co(P3O11)2,Na4O22P6,Fe/Co mix slot5.0,1
+Na7Mn4(PO4)6,Na7O24P6,Mn->slot4.0,1
+Na7V4(PO4)6,Na7O24P6,V->slot4.0,1
+Na7Fe4(PO4)6,Na7O24P6,Fe->slot4.0,1
+Na7Ni4(PO4)6,Na7O24P6,Ni->slot4.0,1
+Na7Cu4(PO4)6,Na7O24P6,Cu->slot4.0,1
+Na7Co4(PO4)6,Na7O24P6,Co->slot4.0,1
+Na7Ti4(PO4)6,Na7O24P6,Ti->slot4.0,1
+Na7Mn2Fe2(PO4)6,Na7O24P6,Fe/Mn mix slot4.0,1
+Na7Fe2Ni2(PO4)6,Na7O24P6,Fe/Ni mix slot4.0,1
+Na7Mn2Ni2(PO4)6,Na7O24P6,Mn/Ni mix slot4.0,1
+Na7Co2Ni2(PO4)6,Na7O24P6,Ni/Co mix slot4.0,1
+Na7Fe2Co2(PO4)6,Na7O24P6,Fe/Co mix slot4.0,1
+Na2VP2O7,Na2O7P2,V->slot1.0,4
+Na2FeP2O7,Na2O7P2,Fe->slot1.0,4
+Na2NiP2O7,Na2O7P2,Ni->slot1.0,4
+Na2CrP2O7,Na2O7P2,Cr->slot1.0,4
+Na2TiP2O7,Na2O7P2,Ti->slot1.0,4
+Na7Mn4P9O32,Na7O32P9,Mn->slot4.0,2
+Na7V4P9O32,Na7O32P9,V->slot4.0,2
+Na7Ni4P9O32,Na7O32P9,Ni->slot4.0,2
+Na7Cu4P9O32,Na7O32P9,Cu->slot4.0,2
+Na7Co4P9O32,Na7O32P9,Co->slot4.0,2
+Na7Ti4P9O32,Na7O32P9,Ti->slot4.0,2
+Na7Mn2Fe2P9O32,Na7O32P9,Fe/Mn mix slot4.0,2
+Na7Fe2Ni2P9O32,Na7O32P9,Fe/Ni mix slot4.0,2
+Na7Mn2Ni2P9O32,Na7O32P9,Mn/Ni mix slot4.0,2
+Na7Co2Ni2P9O32,Na7O32P9,Ni/Co mix slot4.0,2
+Na7Fe2Co2P9O32,Na7O32P9,Fe/Co mix slot4.0,2
+Na3Mn3(PO4)4,Na3O16P4,Mn->slot3.0,1
+Na3V3(PO4)4,Na3O16P4,V->slot3.0,1
+Na3Ni3(PO4)4,Na3O16P4,Ni->slot3.0,1
+Na3Cr3(PO4)4,Na3O16P4,Cr->slot3.0,1
+Na3Cu3(PO4)4,Na3O16P4,Cu->slot3.0,1
+Na3Co3(PO4)4,Na3O16P4,Co->slot3.0,1
+Na3Ti3(PO4)4,Na3O16P4,Ti->slot3.0,1
+Na3MnFe2(PO4)4,Na3O16P4,Fe/Mn mix slot3.0,1
+Na3Fe2Ni(PO4)4,Na3O16P4,Fe/Ni mix slot3.0,1
+Na3Mn2Ni(PO4)4,Na3O16P4,Mn/Ni mix slot3.0,1
+Na3CoNi2(PO4)4,Na3O16P4,Ni/Co mix slot3.0,1
+Na3Fe2Co(PO4)4,Na3O16P4,Fe/Co mix slot3.0,1
+NaMn7(PO4)6,Na1O24P6,Mn->slot7.0,1
+NaV7(PO4)6,Na1O24P6,V->slot7.0,1
+NaNi7(PO4)6,Na1O24P6,Ni->slot7.0,1
+NaCr7(PO4)6,Na1O24P6,Cr->slot7.0,1
+NaCu7(PO4)6,Na1O24P6,Cu->slot7.0,1
+NaCo7(PO4)6,Na1O24P6,Co->slot7.0,1
+NaTi7(PO4)6,Na1O24P6,Ti->slot7.0,1
+NaMnFe6(PO4)6,Na1O24P6,Fe/Mn mix slot7.0,1
+NaFe6Ni(PO4)6,Na1O24P6,Fe/Ni mix slot7.0,1
+NaMn6Ni(PO4)6,Na1O24P6,Mn/Ni mix slot7.0,1
+NaCoNi6(PO4)6,Na1O24P6,Ni/Co mix slot7.0,1
+NaFe6Co(PO4)6,Na1O24P6,Fe/Co mix slot7.0,1
+Na2V(PO3)5,Na2O15P5,V->slot1.0,1
+Na2Fe(PO3)5,Na2O15P5,Fe->slot1.0,1
+Na2Ni(PO3)5,Na2O15P5,Ni->slot1.0,1
+Na2Cr(PO3)5,Na2O15P5,Cr->slot1.0,1
+Na2Cu(PO3)5,Na2O15P5,Cu->slot1.0,1
+Na2Co(PO3)5,Na2O15P5,Co->slot1.0,1
+Na2Ti(PO3)5,Na2O15P5,Ti->slot1.0,1
+Na2V3(PO4)3,Na2O12P3,V->slot3.0,2
+Na2Ni3(PO4)3,Na2O12P3,Ni->slot3.0,2
+Na2Cr3(PO4)3,Na2O12P3,Cr->slot3.0,2
+Na2Cu3(PO4)3,Na2O12P3,Cu->slot3.0,2
+Na2Co3(PO4)3,Na2O12P3,Co->slot3.0,2
+Na2Ti3(PO4)3,Na2O12P3,Ti->slot3.0,2
+Na2MnFe2(PO4)3,Na2O12P3,Fe/Mn mix slot3.0,2
+Na2Fe2Ni(PO4)3,Na2O12P3,Fe/Ni mix slot3.0,2
+Na2Mn2Ni(PO4)3,Na2O12P3,Mn/Ni mix slot3.0,2
+Na2CoNi2(PO4)3,Na2O12P3,Ni/Co mix slot3.0,2
+Na2Fe2Co(PO4)3,Na2O12P3,Fe/Co mix slot3.0,2
+Na2Mn(PO3)4,Na2O12P4,Mn->slot1.0,1
+Na2V(PO3)4,Na2O12P4,V->slot1.0,1
+Na2Fe(PO3)4,Na2O12P4,Fe->slot1.0,1
+Na2Ni(PO3)4,Na2O12P4,Ni->slot1.0,1
+Na2Cr(PO3)4,Na2O12P4,Cr->slot1.0,1
+Na2Co(PO3)4,Na2O12P4,Co->slot1.0,1
+Na2Ti(PO3)4,Na2O12P4,Ti->slot1.0,1
+Na2Mn3P2O13,Na2O13P2,Mn->slot3.0,1
+Na2Fe3P2O13,Na2O13P2,Fe->slot3.0,1
+Na2Ni3P2O13,Na2O13P2,Ni->slot3.0,1
+Na2Cr3P2O13,Na2O13P2,Cr->slot3.0,1
+Na2Cu3P2O13,Na2O13P2,Cu->slot3.0,1
+Na2Co3P2O13,Na2O13P2,Co->slot3.0,1
+Na2Ti3P2O13,Na2O13P2,Ti->slot3.0,1
+Na2MnFe2P2O13,Na2O13P2,Fe/Mn mix slot3.0,1
+Na2Fe2NiP2O13,Na2O13P2,Fe/Ni mix slot3.0,1
+Na2Mn2NiP2O13,Na2O13P2,Mn/Ni mix slot3.0,1
+Na2CoNi2P2O13,Na2O13P2,Ni/Co mix slot3.0,1
+Na2Fe2CoP2O13,Na2O13P2,Fe/Co mix slot3.0,1
+Na3Mn2(PS4)3,Na3P3S12,Mn->slot2.0,1
+Na3V2(PS4)3,Na3P3S12,V->slot2.0,1
+Na3Fe2(PS4)3,Na3P3S12,Fe->slot2.0,1
+Na3Ni2(PS4)3,Na3P3S12,Ni->slot2.0,1
+Na3Cu2(PS4)3,Na3P3S12,Cu->slot2.0,1
+Na3Co2(PS4)3,Na3P3S12,Co->slot2.0,1
+Na3Ti2(PS4)3,Na3P3S12,Ti->slot2.0,1
+Na3MnFe(PS4)3,Na3P3S12,Fe/Mn mix slot2.0,1
+Na3FeNi(PS4)3,Na3P3S12,Fe/Ni mix slot2.0,1
+Na3MnNi(PS4)3,Na3P3S12,Mn/Ni mix slot2.0,1
+Na3CoNi(PS4)3,Na3P3S12,Ni/Co mix slot2.0,1
+Na3FeCo(PS4)3,Na3P3S12,Fe/Co mix slot2.0,1
+Na4Mn3P4O15,Na4O15P4,Mn->slot3.0,2
+Na4V3P4O15,Na4O15P4,V->slot3.0,2
+Na4Cr3P4O15,Na4O15P4,Cr->slot3.0,2
+Na4Cu3P4O15,Na4O15P4,Cu->slot3.0,2
+Na4Ti3P4O15,Na4O15P4,Ti->slot3.0,2
+Na4MnFe2P4O15,Na4O15P4,Fe/Mn mix slot3.0,2
+Na4Fe2NiP4O15,Na4O15P4,Fe/Ni mix slot3.0,2
+Na4Mn2NiP4O15,Na4O15P4,Mn/Ni mix slot3.0,2
+Na4CoNi2P4O15,Na4O15P4,Ni/Co mix slot3.0,2
+Na4Fe2CoP4O15,Na4O15P4,Fe/Co mix slot3.0,2
+Na6V3(PO4)4,Na6O16P4,V->slot3.0,1
+Na6Fe3(PO4)4,Na6O16P4,Fe->slot3.0,1
+Na6Ni3(PO4)4,Na6O16P4,Ni->slot3.0,1
+Na6Cr3(PO4)4,Na6O16P4,Cr->slot3.0,1
+Na6Cu3(PO4)4,Na6O16P4,Cu->slot3.0,1
+Na6Co3(PO4)4,Na6O16P4,Co->slot3.0,1
+Na6Ti3(PO4)4,Na6O16P4,Ti->slot3.0,1
+Na6MnFe2(PO4)4,Na6O16P4,Fe/Mn mix slot3.0,1
+Na6Fe2Ni(PO4)4,Na6O16P4,Fe/Ni mix slot3.0,1
+Na6Mn2Ni(PO4)4,Na6O16P4,Mn/Ni mix slot3.0,1
+Na6CoNi2(PO4)4,Na6O16P4,Ni/Co mix slot3.0,1
+Na6Fe2Co(PO4)4,Na6O16P4,Fe/Co mix slot3.0,1
+Na8Mn7(PO4)8,Na8O32P8,Mn->slot7.0,1
+Na8V7(PO4)8,Na8O32P8,V->slot7.0,1
+Na8Ni7(PO4)8,Na8O32P8,Ni->slot7.0,1
+Na8Cr7(PO4)8,Na8O32P8,Cr->slot7.0,1
+Na8Cu7(PO4)8,Na8O32P8,Cu->slot7.0,1
+Na8Co7(PO4)8,Na8O32P8,Co->slot7.0,1
+Na8Ti7(PO4)8,Na8O32P8,Ti->slot7.0,1
+Na8MnFe6(PO4)8,Na8O32P8,Fe/Mn mix slot7.0,1
+Na8Fe6Ni(PO4)8,Na8O32P8,Fe/Ni mix slot7.0,1
+Na8Mn6Ni(PO4)8,Na8O32P8,Mn/Ni mix slot7.0,1
+Na8CoNi6(PO4)8,Na8O32P8,Ni/Co mix slot7.0,1
+Na8Fe6Co(PO4)8,Na8O32P8,Fe/Co mix slot7.0,1
+Na11Mn8(PO4)12,Na11O48P12,Mn->slot8.0,1
+Na11V8(PO4)12,Na11O48P12,V->slot8.0,1
+Na11Fe8(PO4)12,Na11O48P12,Fe->slot8.0,1
+Na11Ni8(PO4)12,Na11O48P12,Ni->slot8.0,1
+Na11Cr8(PO4)12,Na11O48P12,Cr->slot8.0,1
+Na11Cu8(PO4)12,Na11O48P12,Cu->slot8.0,1
+Na11Co8(PO4)12,Na11O48P12,Co->slot8.0,1
+Na11Mn4Fe4(PO4)12,Na11O48P12,Fe/Mn mix slot8.0,1
+Na11Fe4Ni4(PO4)12,Na11O48P12,Fe/Ni mix slot8.0,1
+Na11Mn4Ni4(PO4)12,Na11O48P12,Mn/Ni mix slot8.0,1
+Na11Co4Ni4(PO4)12,Na11O48P12,Ni/Co mix slot8.0,1
+Na11Fe4Co4(PO4)12,Na11O48P12,Fe/Co mix slot8.0,1
+Na2VPO4F,F1Na2O4P1,V->slot1.0,1
+Na2FePO4F,F1Na2O4P1,Fe->slot1.0,1
+Na2NiPO4F,F1Na2O4P1,Ni->slot1.0,1
+Na2CrPO4F,F1Na2O4P1,Cr->slot1.0,1
+Na2CuPO4F,F1Na2O4P1,Cu->slot1.0,1
+Na2CoPO4F,F1Na2O4P1,Co->slot1.0,1
+Na2TiPO4F,F1Na2O4P1,Ti->slot1.0,1
+Na3NiBAsO7,As1B1Na3O7,Ni->slot1.0,4
+Na3CrBAsO7,As1B1Na3O7,Cr->slot1.0,4
+Na3CuBAsO7,As1B1Na3O7,Cu->slot1.0,4
+Na3TiBAsO7,As1B1Na3O7,Ti->slot1.0,4
+Na3NiBPO7,B1Na3O7P1,Ni->slot1.0,3
+Na3CrBPO7,B1Na3O7P1,Cr->slot1.0,3
+Na3CuBPO7,B1Na3O7P1,Cu->slot1.0,3
+Na3CoBPO7,B1Na3O7P1,Co->slot1.0,3
+Na3TiBPO7,B1Na3O7P1,Ti->slot1.0,3
+Na3VBSO7,B1Na3O7S1,V->slot1.0,2
+Na3FeBSO7,B1Na3O7S1,Fe->slot1.0,2
+Na3NiBSO7,B1Na3O7S1,Ni->slot1.0,2
+Na3CrBSO7,B1Na3O7S1,Cr->slot1.0,2
+Na3CoBSO7,B1Na3O7S1,Co->slot1.0,2
+Na3TiBSO7,B1Na3O7S1,Ti->slot1.0,2

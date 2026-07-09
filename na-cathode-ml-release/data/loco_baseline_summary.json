@@ -1,0 +1,44 @@
+{
+ "macro": {
+  "average_voltage": {
+   "loco_r2_macro_mean": 0.1925,
+   "loco_r2_macro_std": 0.6938,
+   "loco_mae_over_sigma_macro": 0.6859
+  },
+  "capacity_grav": {
+   "loco_r2_macro_mean": 0.5258,
+   "loco_r2_macro_std": 0.2342,
+   "loco_mae_over_sigma_macro": 0.4685
+  },
+  "max_delta_volume": {
+   "loco_r2_macro_mean": 0.11,
+   "loco_r2_macro_std": 0.4288,
+   "loco_mae_over_sigma_macro": 0.6559
+  }
+ },
+ "cv_reference_random5fold": {
+  "average_voltage": {
+   "r2": 0.6844,
+   "mae": 0.4649
+  },
+  "capacity_grav": {
+   "r2": 0.6051,
+   "mae": 24.9481
+  },
+  "max_delta_volume": {
+   "r2": 0.2326,
+   "mae": 0.0429
+  }
+ },
+ "families": [
+  "Mn",
+  "V",
+  "Fe",
+  "Ni",
+  "Cr",
+  "Cu",
+  "Co",
+  "Ti"
+ ],
+ "n_assigned": 281
+}

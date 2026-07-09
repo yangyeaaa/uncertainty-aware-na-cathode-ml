@@ -1,0 +1,16 @@
+# Core prediction / screening environment
+numpy
+pandas
+scikit-learn
+matplotlib
+pymatgen
+matminer
+torch
+ngboost
+
+# Interatomic-potential environment (recommended: separate env)
+chgnet
+ase
+
+# ALIGNN benchmark (separate env, from pip)
+# alignn

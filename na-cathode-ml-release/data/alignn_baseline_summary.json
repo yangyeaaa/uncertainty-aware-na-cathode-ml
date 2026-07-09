@@ -1,0 +1,32 @@
+{
+ "average_voltage": {
+  "r2_mean": 0.7029,
+  "r2_std": 0.0224,
+  "mae_over_sigma_mean": 0.3819,
+  "n_seeds": 3
+ },
+ "capacity_grav": {
+  "r2_mean": 0.6176,
+  "r2_std": 0.0173,
+  "mae_over_sigma_mean": 0.4056,
+  "n_seeds": 3
+ },
+ "max_delta_volume": {
+  "r2_mean": 0.3121,
+  "r2_std": 0.0139,
+  "mae_over_sigma_mean": 0.501,
+  "n_seeds": 3
+ },
+ "_protocol": {
+  "n_structures": 356,
+  "seeds": [
+   42,
+   43,
+   44
+  ],
+  "full_size": false,
+  "cutoff": 8.0,
+  "max_neighbors": 12,
+  "batch": 8
+ }
+}

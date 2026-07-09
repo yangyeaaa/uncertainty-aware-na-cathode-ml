@@ -1,0 +1,7 @@
+formula,battery_id,mp_e_hull,decomposition,chgnet_e_hull,delta,status
+NaNiO2,mp-19149_Na,0.0,NaNiO2:1.00,0.0002,0.0002,ok
+NaCoO2,mp-18921_Na,0.0,NaCoO2:1.00,0.0,0.0,ok
+Na5NiO4,mp-21996_Na,0.0,Na5NiO4:1.00,-0.0004,-0.0004,ok
+NaFeO2,mp-19359_Na,0.0,NaFeO2:1.00,0.0001,0.0001,ok
+NaCuO,mp-7469_Na,0.0,NaCuO:1.00,0.0,0.0,ok
+Na(CuO)2,mp-505090_Na,0.0,Na(CuO)2:1.00,-0.0005,-0.0005,ok

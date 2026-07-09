@@ -1,0 +1,20 @@
+{
+  "average_voltage": {
+    "MAE": 0.4652,
+    "R2": 0.6834,
+    "MAE_over_std": 0.4046,
+    "sigma_y": 1.1499
+  },
+  "capacity_grav": {
+    "MAE": 24.9238,
+    "R2": 0.6061,
+    "MAE_over_std": 0.398,
+    "sigma_y": 62.6231
+  },
+  "max_delta_volume": {
+    "MAE": 0.0429,
+    "R2": 0.2329,
+    "MAE_over_std": 0.5657,
+    "sigma_y": 0.0758
+  }
+}
